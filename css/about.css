@@ -119,3 +119,23 @@
     background:  linear-gradient(90deg, #FE651B -0.02%, #FFAA52 100.06%);
 
 }
+
+/* ==============conter section============== */
+#about_counter{
+    padding: 120px 0;
+}
+#about_counter .counter_wrapper .counter_item_wrapper{
+    background: var(--off-white-clr);
+    padding: 40px 0 23px 40px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+#about_counter .counter_wrapper .counter_item_wrapper .counter_item_content h3{
+    color: var(--black-clr);
+}
+#about_counter .counter_wrapper .counter_item_wrapper .counter_item_content p{
+    color: var(--pera-text-clr);
+}
